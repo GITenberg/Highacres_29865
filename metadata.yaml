@@ -1,0 +1,36 @@
+_repo: Highacres_29865
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Richards, Harriet Roosevelt
+    deathdate: 1932
+    gutenberg_agent_id: '8437'
+    url: http://www.gutenberg.org/2009/agents/8437
+covers:
+- cover_type: archival
+  image_path: 29865-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Abbott, Jane
+    alias: Drake, Jane Ludlow
+    birthdate: 1881
+    deathdate: 1968
+    gutenberg_agent_id: '2227'
+    url: http://www.gutenberg.org/2009/agents/2227
+description: A school story of Jerry Travis and her chum Gyp Westley. A thread of
+  romance and mystery in Jerry's life runs through the tale.
+gutenberg_issued: '2009-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29865'
+  lccn: '20020318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Fiction'
+title: Highacres
+url: http://www.gutenberg.org/ebooks/29865
