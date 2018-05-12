@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2227
 description: A school story of Jerry Travis and her chum Gyp Westley. A thread of
   romance and mystery in Jerry's life runs through the tale.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29865#Highacres
 gutenberg_issued: '2009-08-30'
 gutenberg_type: Text
 identifiers:
